@@ -1,4 +1,4 @@
-Welcome to my ugly and bad EXA Punk's solutions.
+Welcome to my ugly and bad EXAPUNKS solutions.
 
 All solutions published here work, but are not optimal.
 
